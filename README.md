@@ -1,3 +1,3 @@
 # hello-world
 testing human!
-this is my 1st attempt - BEWARE
+this is my 2nd attempt - BEWARE
