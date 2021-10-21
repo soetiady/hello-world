@@ -1,2 +1,3 @@
 # hello-world
-testing 
+testing human!
+this is my 1st attempt - BEWARE
